@@ -8,7 +8,7 @@ text = tess.image_to_string(img)
 print(text)
 
 question = text
-app_id = "PH8RJ2-J579TR7PVT"
+app_id = "API"
 client = wolframalpha.Client(app_id)
 res = client.query(question)
 answer = next(res.results).text
