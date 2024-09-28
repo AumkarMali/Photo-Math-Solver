@@ -6,7 +6,7 @@
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-# Home Work bot
+# Photo Math Solver
 
 Utilizes pytesseract and wolframalpha API to solve math problems from picture.
  
